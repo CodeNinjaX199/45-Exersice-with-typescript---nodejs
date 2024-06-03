@@ -1,0 +1,12 @@
+{
+  "name": "exersice-25",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "ttype": "moudle",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"HAMZA SAHIKH\"",
+  "license": "ISC"
+}
